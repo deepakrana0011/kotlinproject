@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="donthaveaccount">Don\'t have an account? <b>Create one</b></string>
+</resources>
